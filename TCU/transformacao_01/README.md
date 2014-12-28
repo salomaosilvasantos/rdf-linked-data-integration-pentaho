@@ -1,6 +1,6 @@
-## Transformação *Tryplify Process*##
+## Tryplify Process##
 
- Transformação ***TryplifyProcess*** é uma transformação realizada com o intuito de mapear e converter dados do [**Tribunal de Contas da União** (**TCU**)](http://portal2.tcu.gov.br/portal/page/portal/TCU/contas_publicas/inicio) para o para o formato final **Resource Description Framework** (**RDF**).  
+ ***TryplifyProcess*** é uma transformação realizada com o intuito de mapear e converter dados do [**Tribunal de Contas da União** (**TCU**)](http://portal2.tcu.gov.br/portal/page/portal/TCU/contas_publicas/inicio) para o para o formato final **Resource Description Framework** (**RDF**).  
 
 # **Instruções para utilização da transformação** #
 
