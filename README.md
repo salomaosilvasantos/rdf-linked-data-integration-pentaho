@@ -9,8 +9,8 @@ Linked Data Integration é um projeto de pesquisa que utiliza o ***Ketlle*** com
 
    - Realize [Download](https://www.dropbox.com/s/drifopaw2eprlu5/data-integration4.1.rar) do ***Kettle*** com *plugin*** *DataLinkedBR***.     
      
-   - Descompactar o arquivo data-integration4.1.rar em uma pasta de preferência.
-     Para iniciar o ***kettle***, basta acessar o diretório ../data-integration4.1 e
+   - Descompactar o arquivo pdi-ce-6.0.1.0-386.rar em uma pasta de preferência.
+     Para iniciar o ***kettle***, basta acessar o diretório pdi-ce-6.0.1.0-386/data-integration/ e
      selecionar o arquivo de script é o **Spoon.bat** no *Windows* ou **Spoon.sh** em outras plataformas.
   
 ### 2.  Pré-Requisitos ###
